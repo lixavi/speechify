@@ -1,2 +1,3 @@
-# cloud-based-hotel-management
- The application allows users to book, view, and cancel hotel rooms. The microservices have been dockerized for better containerization and isolation. Additionally, the project includes a Jenkins CI/CD pipeline integrated with GitHub and AWS EC2. The pipeline automates the build, test, and deployment process of the application. The pipeline includes several stages, such as retrieving source code from GitHub,creating a Docker image of the application, and deploying the Docker image to AWS EC2. The project showcases the benefits of using a CI/CD pipeline in software development, including faster delivery of software.
+# Speechify
+
+Speech-to-text conversion library using Google's Speech Recognition API for diverse language support.
