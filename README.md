@@ -1,4 +1,4 @@
-# Speechify - Speech-to-text conversion library using Google's Speech Recognition API for diverse language support
+# Speechify
 
 Speechify is a Python-based library that allows for easy conversion of speech to text using Google's Speech Recognition API. It provides support for multiple languages and offers a flexible and customizable interface for speech recognition tasks.
 
